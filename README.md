@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Full-Stack Web Developer | Polyglot Programmer
 🔭 Currently immersed in crafting my professional portfolio.<br>🌍 based in Exeter, UK<br>🌱 Currently learning C<br>👯 Actively seeking opportunities for collaboration on projects that align with my current skill set or present opportunities for skill enhancement. I welcome challenges that allow me to contribute my expertise while fostering continuous professional growth.<br>⚡ Fun Fact: I am an Albino Indian
 
 
