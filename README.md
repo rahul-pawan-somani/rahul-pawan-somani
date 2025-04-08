@@ -38,8 +38,8 @@ If you're hiring, collaborating, or just curious [let’s chat!](https://www.lin
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 [![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
-[![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)](https://notepad-plus-plus.org/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)](https://notepad-plus-plus.org/)
 
 ## 🖥️ Operating Systems
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
