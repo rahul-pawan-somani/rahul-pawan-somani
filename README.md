@@ -77,9 +77,3 @@ Offline-first Android notes app built with Kotlin, Jetpack Compose, Room, DataSt
 ## Current Focus
 
 I am looking for graduate software engineering, AI/ML, cloud, data, Android, and full-stack development opportunities where I can keep building technically meaningful software and grow within a strong engineering environment.
-
----
-
-## Connect
-
-* LinkedIn: linkedin.com/in/rahul-pawan-somani
